@@ -12,7 +12,7 @@ const AboutUs: React.FC = () => {
     <Card className="col-span-3 md:col-span-6">
       <div className="flex flex-col">
         <div className="relative hidden xl:block">
-          <img src="/ambulance.png" className="h-full w-full" />
+          <img src="/about-us.png" className="h-full w-full" />
         </div>
         <CardHeader>
           <CardTitle className="text-4xl">
