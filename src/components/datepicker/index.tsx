@@ -30,7 +30,6 @@ const DatePicker: React.FC = () => {
       </PopoverTrigger>
       <PopoverContent className="w-auto p-0">
         <Calendar
-          captionLayout="dropdown"
           fromYear={2015}
           toYear={2025}
           mode="single"
